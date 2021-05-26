@@ -1,0 +1,15 @@
+
+
+git status => Mostra qual é o status atual do nosso repositório
+clear => Limpa o terminal
+
+git config --global user.name "Seu nome aqui entre aspas"
+git config --global user.email "Seu email do github aqui entre aspas"
+
+git init => Inicia um novo repositório na pasta que eu estou
+git add => adiciona arquivos para serem comitados
+git add . => adiciona TODOS os arquivos de uma vez só
+
+git commit
+
+git push 
